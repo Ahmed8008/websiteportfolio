@@ -10,7 +10,7 @@ export default function About(){
     id="about"
     >
         <h2 className='text-3xl font-medium capitalize mb-8'>
-               Rectenly Done Porject 
+               Rectenly Done Project 
             </h2> 
         <p className='mb-3 '>
 
