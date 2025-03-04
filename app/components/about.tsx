@@ -10,7 +10,7 @@ export default function About(){
     id="about"
     >
         <h2 className='text-3xl font-medium capitalize mb-8'>
-               Recently Done Project 
+               Rectenly Done Porject 
             </h2> 
         <p className='mb-3 '>
 
@@ -18,10 +18,7 @@ export default function About(){
         </p>
 
         <p className=' text-2xl'>
-       <i> Recently collaborated with the Saudi Arabian company AFAQ Alarabiya, delivering a sophisticated billing invoice portal using .NET technology, SQL Server, and C#. The portal was designed to streamline the company’s invoicing processes, significantly improving efficiency, accuracy, and user experience. With its robust architecture and user-friendly interface, the system was tailored to meet AFAQ Alarabiya’s specific business requirements, ensuring smooth financial operations.
-
-Currently, ongoing maintenance and support are being provided for the portal to ensure smooth operations, addressing any issues that arise, and implementing updates to enhance its functionality and performance. This long-term commitment reflects a dedication to delivering a comprehensive solution that not only meets but exceeds client expectations.       </i>
-
+       <i> Recently collaborated with <b>AFAQ Alarabiya, a leading Saudi Arabian company</b>, to develop a sophisticated billing invoice portal utilizing .NET technology, SQL Server, and C#. The portal was meticulously designed to streamline their invoicing processes, boosting operational efficiency, accuracy, and enhancing user experience with a custom, user-friendly interface. Continue to provide dedicated maintenance and support to ensure optimal performance, addressing issues as they arise and implementing updates. Due to the company’s privacy policy, unable to share the website link.</i>
         </p>
     </motion.section>
 
