@@ -2,7 +2,7 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import MovieReview from "/public/MovieReview.png";
+import finalthird from "/public/finalthird.png";
 import LesvestieHair from "/public/LesvestieHair.png";
 import EliteSportswear from "/public/EliteSportswear.png";
 import inventorymangemnetsystem from "/public/inventorymangemnetsystem.png";
@@ -42,8 +42,8 @@ export const experiencesData = [
     "Ahmed offered me a very nice website at a good price. He is a very active listener and I thank him for that. He is very passionate about sin and that is remarkable. If you want your website, he is the one to go to.", 
   },
   {
-    title: "Movie Review and Rating Platform",
-    description: "Exceptionally quick and attentive, delivered outstanding results that left me beyond satisfied.",
+    title: "The Final Third",
+    description: "The Final Third is a football talent agency that mentors aspiring players, connecting them with trials at professional clubs. They focus on skill development and mental preparation to help athletes achieve their goals.",
   },
   {
     title: "Inventory Mangement System",
@@ -79,12 +79,12 @@ export const projectsData = [
     link:"https://elitesportswear.co.uk/",
   },
   {
-    title: "Movie Review and Rating Platform",
+    title: "The Final Third",
     description:
-      "A platform for discovering, reviewing, and rating movies, where users share opinions and explore top-rated films.",
-    tags: ["HTML", "TailwindCSS", "NextJs","TypeScript","Neom Db"],
-    imageUrl: MovieReview,
-    link:"https://movie-review-rouge.vercel.app/",
+      "The Final Third is a football talent agency that mentors aspiring players, connecting them with trials at professional clubs. They focus on skill development and mental preparation to help athletes achieve their goals.",
+    tags: ["HTML", "Boostrap","CSS","PHP"],
+    imageUrl: finalthird,
+    link:"https://www.thefinalthird.co/",
   },
   {
     title: "Inventory Mangement System",

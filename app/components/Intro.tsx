@@ -24,15 +24,6 @@ export default function Intro()
                 >
                    
 
-            <Image
-                src="/pic.png"
-                 width="192"
-                  height="192"
-                  color='white'
-                  priority={true}
-                  className='h-24 w-24 rounded-full object-cover border-[0.35rem] border-white shadow-xl'
-                  alt="Ahmed Portfolio"
-                 />
                  </motion.div>
                     <motion.span  className='absolute bottom-0 right-0 text-4xl' 
                         initial={{opacity:0, scale:0}}
@@ -51,7 +42,7 @@ export default function Intro()
            animate={{opacity: 1, scale: 1}}
            transition={{type:"tween", duration:0.2, }}
          >
-            <span className='font-bold'> Hello, I'm Ahmed Mahmood.
+            <span className='font-bold'> Hello,
             </span> I'm a {""}
 
             <span className='font-bold'>full-stack
