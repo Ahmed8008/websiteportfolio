@@ -42,13 +42,7 @@ export default function Intro()
            animate={{opacity: 1, scale: 1}}
            transition={{type:"tween", duration:0.2, }}
          >
-            <span className='font-bold'> Hello,
-            </span> I'm a {""}
-
-            <span className='font-bold'>full-stack
-                Web developer
-            </span>
-            
+          
 
          </motion.p>
         

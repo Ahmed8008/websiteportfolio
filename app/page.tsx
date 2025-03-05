@@ -10,8 +10,8 @@ export default function Home() {
   return (
     <main className="flex flex-col items-center px-4">
     
-    <Intro />
-    <SectionDivider />
+    
+   
     <About />
     <div>
     <h2 className='text-3xl font-medium capitalize mb-8'>
