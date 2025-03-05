@@ -2,7 +2,7 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import finalthird from "/public/finalthird.png";
+
 import LesvestieHair from "/public/LesvestieHair.png";
 import EliteSportswear from "/public/EliteSportswear.png";
 import inventorymangemnetsystem from "/public/inventorymangemnetsystem.png";
@@ -77,14 +77,6 @@ export const projectsData = [
     tags: ["Wordpress", "Elementor", "php"],
     imageUrl: EliteSportswear,
     link:"https://elitesportswear.co.uk/",
-  },
-  {
-    title: "The Final Third",
-    description:
-      "The Final Third is a football talent agency that mentors aspiring players, connecting them with trials at professional clubs. They focus on skill development and mental preparation to help athletes achieve their goals.",
-    tags: ["HTML", "Boostrap","CSS","PHP"],
-    imageUrl: finalthird,
-    link:"https://www.thefinalthird.co/",
   },
   {
     title: "Inventory Mangement System",
